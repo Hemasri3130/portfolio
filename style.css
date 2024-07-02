@@ -1,0 +1,205 @@
+
+.navbar{
+  
+    background: linear-gradient(to top,rgb(247, 165, 192),pink,rgb(235, 163, 235));
+    padding: 10px;
+}
+
+.plogo{
+    width: 160px;
+    height: 70px;
+}
+.plogo:hover{
+    background: linear-gradient(to top,rgb(124, 147, 199),rgb(223, 221, 130),rgb(143, 218, 121));
+}
+#go{
+    color: black;
+    font-weight: bold;
+    border: 0px;
+}
+#go:hover{
+    color: red;
+}
+#go:active{
+    color: rgb(207, 148, 71);
+}
+.banner1{
+  
+   background-image: url(https://png.pngtree.com/background/20210716/original/pngtree-abstract-portfolio-pink-memphis-playful-picture-image_1347356.jpg);
+    background-size: cover;
+    height: 80vh;
+    margin-top: 60px;
+}
+.girl{
+    height: 300px;
+    float: inline-end;
+    margin-top: 100px;
+    margin-right: 100px;
+}
+
+.head1{
+  padding-top: 50px;
+    font-size: 40px;
+    font-weight: 300;
+    color:rgb(138, 37, 37);
+    text-align: left;
+    margin-left: 20%;
+    
+    
+    
+}
+.para1{
+    font-size: 24px;
+    font-weight: 300;
+    color:rgb(173, 50, 50);
+    text-align:left;
+    margin-left: 20%;
+    font-family: "Playwrite ZA", cursive;
+
+    text-transform: uppercase;
+
+    
+}
+.text1{
+    padding-top: 100px;
+}
+span{
+    font-family: "Protest Revolution", sans-serif;
+    font-weight: 500;
+    text-transform: uppercase;
+}
+.buttonst {
+    background-color:#fd4885;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s, transform 0.3s;
+    border-radius: 5px;
+  }
+
+  .buttonst:hover {
+    background-color: #f00654;
+    transform: scale(1.1);
+  }
+  .buttonst:active{
+    background-color: rgb(151, 96, 184);
+    box-shadow: 0 9px #666;
+    transform: translatey(4px);
+
+  }
+  .buttonst1 {
+    background-color:  #fd4885;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s, transform 0.3s;
+    border-radius: 5px;
+    margin-left: 10px;
+  }
+
+  .buttonst1:hover {
+    background-color: #f00654;
+    transform: scale(1.1);
+  }
+  .buttonst1:active{
+    background-color: rgb(151, 96, 184);
+    box-shadow: 0 9px #666;
+    transform: translatey(4px);
+
+  }
+  .img-fluid {
+    height: 400px;
+    margin-bottom: 100px;
+    margin-right: 500px;
+    
+  }
+  #aboutme{
+    color: #fa89c1;
+  }
+  #meh{
+    color: #cf337c;
+  }
+
+  #about{
+    background-image: url(https://png.pngtree.com/thumb_back/fw800/background/20231229/pngtree-background-design-delicate-pink-watercolor-texture-image_13911589.png);
+    background-size:cover;
+  }
+  #a1 {
+    display: inline-block;
+    margin: 10px 20px;
+    padding: 10px 15px;
+    background-color: #e90e33;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+}
+
+#a1:hover {
+    background-color: #f5346e;
+}
+#sli{
+  color:rgb(243, 10, 61) ;
+  font-weight: bold;
+}
+#ser{
+   
+   margin: 0px;
+}
+.ex-me{
+  margin-top: 35px;
+}
+.cont1{
+  background-color: #535252;
+}
+  
+
+
+#cont1{
+  background-image: url(https://i.gifer.com/81mz.gif);
+  background-size: cover;
+}
+.conbtn {
+  background-color:  #fd4885;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background-color 0.3s, transform 0.3s;
+  border-radius: 5px;
+  margin-left: 10px;
+  margin-bottom: 10px;
+}
+
+.conbtn:hover {
+  background-color: #f00654;
+  transform: scale(1.1);
+}
+.conbtn:active{
+  background-color: rgb(151, 96, 184);
+  box-shadow: 0 9px #666;
+  transform: translatey(4px);
+
+}
+.icons1{
+  
+  font-size: 40px;
+  cursor: pointer;
+}
+#cen1{
+  text-align: center;
+}
+.fa-brands{
+color: white;
+}
+.fa-facebook, .fa-instagram, .fa-linkedin {
+  margin: 40px;
+}
+.fa-facebook:hover, .fa-instagram:hover, .fa-linkedin:hover {
+color: #f52072;
+}
